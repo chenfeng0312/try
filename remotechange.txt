@@ -3,5 +3,10 @@ change remotely 2
 change remotely 3
 
 
+
 change from remote 1
 change from remote 2
+
+change from local 1
+change from local 2
+
