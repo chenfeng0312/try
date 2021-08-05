@@ -3,7 +3,13 @@ change remotely 2
 change remotely 3
 
 
+<<<<<<< Updated upstream
 
 
 change from remote 1
 change from remote 2
+=======
+change from local 1
+change from local 2
+
+>>>>>>> Stashed changes
